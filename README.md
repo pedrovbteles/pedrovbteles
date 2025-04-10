@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou @pedrovbteles
-- 👀 Estou interessado em me desenvolver cada vez mais como desenvolvedor de sistemas
+- 👀 Estou interessado em me desenvolver cada vez mais como desenvolvedor de sistemas e analista de dados
 - 🌱 Estou aprendendo atualmente Python
 - 💞️ Estou procurando colaborar em projetos que utilizem Python e seus frameworks
 - 📫 Como entrar em contato comigo: através de meu e-mail e LinkedIn
